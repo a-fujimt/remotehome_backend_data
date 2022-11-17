@@ -4,6 +4,18 @@
         "name" : "オン/オフ"
     },
     {
+        "id": "source",
+        "name": "入力切替"
+    },
+    {
+        "id": "volume_up",
+        "name": "音量+"
+    },
+    {
+        "id": "volume_down",
+        "name": "音量-"
+    },
+    {
         "id": "ch_1",
         "name" : "1ch"
     },
@@ -20,12 +32,24 @@
         "name" : "4ch"
     },
     {
+        "id": "ch_5",
+        "name" : "5ch"
+    },
+    {
         "id": "ch_6",
         "name" : "6ch"
     },
     {
+        "id": "ch_7",
+        "name" : "7ch"
+    },
+    {
         "id": "ch_8",
         "name" : "8ch"
+    },
+    {
+        "id": "ch_9",
+        "name" : "9ch"
     },
     {
         "id": "ch_10",
